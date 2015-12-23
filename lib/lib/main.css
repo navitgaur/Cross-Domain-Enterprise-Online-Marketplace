@@ -1,0 +1,63 @@
+
+
+.error{
+    color: red;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#loginAfterReg{
+    margin-top: 10px;
+}
+
+#loginAfterRegLink{
+    color: white;
+}
+
+.jumbotron blockquote footer{
+    font-size: 100%
+}
+.jumbotron blockquote h1{
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+#exhibition_container, #artist_container{
+    margin-top: 5%;
+}
+
+#registration, #savecomment{
+    text-align: center;
+}
+
+#savecomment{
+    margin-top: 30px;
+}
+
+#comments {
+    margin-bottom: 20px;
+    margin-top: 30px;
+
+}
+
+.comment_delete{
+    margin-left: 75%;
+}
+
+.glyphicon-heart{
+    color: #ff5a5f;
+}
+
+.rating-container .rating-stars{
+   color: #d17581;
+}
+
+.panel .star-rating{
+    font-size: 0.8em;
+}
+
+body{
+    background-color: #F8F8F8;
+    padding-top: 70px;
+}
